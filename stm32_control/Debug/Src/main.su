@@ -1,0 +1,14 @@
+main.c:60:6:initialize_func	8	static
+main.c:73:5:main	136	static
+main.c:126:6:SysClock_Config	4	static
+main.c:183:6:GPIOA_Config	16	static
+main.c:191:6:TIM2_PWM_Config	4	static
+main.c:214:6:UART3Config	4	static
+main.c:230:6:UART3SendCh	16	static
+main.c:235:6:UART3SendString	16	static
+main.c:239:9:UART3GetCh	16	static
+main.c:246:6:itoa	40	static
+main.c:260:6:TIM6Config	4	static
+main.c:268:6:delay_us	16	static
+main.c:273:6:delay_ms	24	static
+main.c:279:6:enable_encoderMode	4	static
